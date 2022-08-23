@@ -1,2 +1,2 @@
-# Java-practice
-Practice Java
+# everyday-commit
+Everyday commit
